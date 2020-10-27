@@ -15,13 +15,13 @@ const style = StyleSheet.create({
     color: '#ffffff'
   },
   view: {
-    backgroundColor: '#18c469',
+    backgroundColor: '#4285f4',
     justifyContent: 'center',
     alignItems: 'center',
     paddingTop: 10,
-    shadowColor: '#000000',
+    shadowColor: '#007dba',
     shadowOffset: { width: 0, height: 10},
-    shadowOpacity: 0.5,
+    shadowOpacity: 0.1,
     elevation: 2,
     position: 'relative'
 

@@ -12,13 +12,12 @@ const style = StyleSheet.create ({
         borderRadius: 2,
         borderColor: '#dddddd',
         borderBottomWidth: 0,
-        shadowColor: '#000000',
+        shadowColor: '#007dba',
         shadowOffset: { width: 0, height: 2 },
         shadowOpacity: 0.1,
         shadowRadius: 2,
         elevation: 1,
-        marginLeft: 5,
-        marginRight: 5,
+        marginHorizontal: 5,
         marginTop: 10
     }
 })
